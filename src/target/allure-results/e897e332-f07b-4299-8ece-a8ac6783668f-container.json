@@ -1,0 +1,1 @@
+{"uuid":"e897e332-f07b-4299-8ece-a8ac6783668f","name":"Lesson_12.Tests.BaseTest.setup","children":["150f75a6-aa12-47a3-afdd-3be40f05157f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1652177807397,"stop":1652177814920}],"afters":[],"start":1652177807396,"stop":1652177814921}
