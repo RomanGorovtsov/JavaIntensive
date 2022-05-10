@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/anduser/.jdks/Test_project/Java_Lessons">
+        <classes>
+            <class name="Lesson_13.src.test.TriangleMainTest">
+                <methods>
+                    <include name="mainTest"/>
+                </methods>
+            </class>
+            <class name="Lesson_13.src.test.TriangleSideTest">
+                <methods>
+                    <include name="sideTest"/>
+                </methods>
+            </class>
+            <class name="Lesson_13.src.test.TriangleTest">
+                <methods>
+                    <include name="minusTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
